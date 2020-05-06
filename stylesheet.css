@@ -1,1 +1,117 @@
 
+.body {
+  font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+ 
+}
+
+.li {
+  list-style: none;
+}
+
+.header {
+  background-color: #4689ff;
+  color: #fff;
+  height: 100px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 40px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+  list-style: none;
+}
+
+ 
+
+.main {
+  padding: 20px;
+  font-size: 38px;
+  margin: 20px;
+  height:100%;
+　
+}
+
+
+.main-title {
+  float: left;
+  padding: 25px 15px;
+  font-size: 45px;
+  color:#ffffff;
+  
+}
+  
+
+body {
+  background: linear-gradient(-130deg, #BAD3FF, #4689ff) fixed;
+  
+}
+
+
+
+.copy-container span {
+  color: #ff4a4a;
+}
+
+.contents {
+  height: 500px;
+  margin-top: 80px;
+  float: left;
+}
+
+
+
+.section-title {
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 25px;
+  color: purple;
+  
+  
+}
+
+.contents h4 {
+  
+  padding: 15px;
+  
+}
+
+  
+.contents li {
+  
+  margin-bottom: 15px;
+  list-style: none;
+
+}
+  
+  
+
+
+
+.footer {
+  width: 100%;
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+  position: absolute;/*←絶対位置*/
+    bottom: 0;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  list-style: none;
+  padding-bottom: 20px;
+}
